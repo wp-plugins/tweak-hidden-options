@@ -36,7 +36,7 @@ Version 1.0 supports the following options:
 
 * comment_order,
 * gzipcompression,
-* image_default_align,
+* image_default_align,
 * image_default_size,
 * image_default_link_type.
 
