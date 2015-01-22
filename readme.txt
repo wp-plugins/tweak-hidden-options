@@ -24,7 +24,7 @@ For more information and support, check out: http://www.legalcompetitiveintellig
 
 The installation and use is very straightforward. You should:
 
-1. Upload `tweak-hidden-options.php` to the `/wp-content/plugins/` directory
+1. Upload the folder `tweak-hidden-options` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. From the 'Settings' menu, there should be a new option, called 'Tweak Hidden Options'
 
