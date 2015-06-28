@@ -1,6 +1,6 @@
 === Tweak Hidden Options ===
 Contributors: citywanderer, stubgo 
-Donate link: http://www.legalcompetitiveintelligence.com/wordpress-plugin-tweak-hidden-options/
+Donate link: http://www.wpsos.io/wordpress-plugin-tweak-hidden-options/
 Tags: options,configuration,config,gzip
 Requires at least: 3.0.1
 Tested up to: 4.01
@@ -16,9 +16,9 @@ Tweak Hidden Options is a way to modify various WordPress options that WordPress
 
 All options are provided in safe select-down options, without any user-input data, so that it is perfectly safe for any user to use.
 
-We plan on adding many more options to be edited -- if you have any other suggestions, please let us know! You can contact us via http://www.legalcompetitiveintelligence.com/wordpress-plugin-tweak-hidden-options/
+We plan on adding many more options to be edited -- if you have any other suggestions, please let us know! You can contact us via http://www.wpsos.io/wordpress-plugin-tweak-hidden-options/
 
-For more information and support, check out: http://www.legalcompetitiveintelligence.com/wordpress-plugin-tweak-hidden-options/
+For more information and support, check out: http://www.wpsos.io/wordpress-plugin-tweak-hidden-options/
 
 == Installation ==
 
@@ -44,11 +44,11 @@ Note: changing the image options has effect only on images uploaded afterwards.
 
 = Where can I get some support? =
 
-Check out our site, at: http://www.legalcompetitiveintelligence.com/wordpress-plugin-tweak-hidden-options/
+Check out our site, at: http://www.wpsos.io/wordpress-plugin-tweak-hidden-options/
 
 = I have some suggestions for other options I want edited =
 
-Let us know, via: http://www.legalcompetitiveintelligence.com/wordpress-plugin-tweak-hidden-options/
+Let us know, via: http://www.wpsos.io/wordpress-plugin-tweak-hidden-options/
 
 == Screenshots ==
 
